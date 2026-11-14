@@ -145,10 +145,10 @@ const uploadVideo = async (filePath) => {
 
 ## 👨‍💻 Developer
 
-**Sourav Kumar Sahu**  
+**Anand Jha**  
 Backend Developer | Node.js • Express • MongoDB • Cloud Integration  
 
-📧 [lcs.souravkrsahu@gmail.com](mailto:lcs.souravkrsahu@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/sourav-kumar-sahu-ab7003209/)  
+📧 [Vishwesh.a.jha@gmail.com](mailto:Vishwesh.a.jha@gmail.com)  
+
 
 
